@@ -1,0 +1,312 @@
+0	TRUE				Associazione\La Colombera
+1	TRUE				Anno in corso
+2	TRUE	2007_2008/osteria/osteria.htm			Osteria Colombera
+2	TRUE	2007_2008/aim/aim2007.htm			Autunno in Musica
+1	TRUE				Documenti
+2	TRUE	chisiamo.htm			Chi siamo
+2	TRUE	costituzione.htm			Atto costitutivo
+2	TRUE	lostatuto.htm			Statuto
+2	TRUE	ildirettivo.htm			Il Direttivo
+1	TRUE				Storico Progetti
+2	TRUE	iniziative00-01/maestra_minestra.htm			Maestra minestra
+2	TRUE	2003_2004/gdm/gdm.htm			Giornata della Memoria
+2	TRUE	progetti/filande/descr.htm			Filande, filandine e filandere
+1	TRUE				Anno 2006-2007
+2	TRUE	2006_2007/osteria/osteria.htm			Osteria Colombera: I Samadur
+2	TRUE	2006_2007/prontivia/prontivia.htm			Pronti .. Via
+2	TRUE	2006_2007/aim/aim2006.htm			Autunno in Musica
+2	TRUE	progetti/filande/descr.htm			Filande, filandine e filandere
+2	TRUE	2005_2006/meridiana/meridiana.htm			Meridiana
+2	TRUE	2006_2007/8marzo/8m.htm			Ottomarzo 2007
+2	TRUE	2006_2007/ndp/ndp.htm			Note di Primavera
+1	TRUE				Anno 2005-2006
+2	TRUE	2005_2006/osteria/osteria.htm			Noter de Berghem
+2	TRUE	2005_2006/16_prontivia.htm			Pronti .. Via
+2	TRUE	2005_2006/aim/aim2005.htm			Autunno in Musica
+2	TRUE	2005_2006/8marzo/8m.htm			OttoMarzo 2006
+2	TRUE	2005_2006/notediprim/ndp.htm			Note di Primavera
+1	TRUE				Anno 2004-2005
+2	TRUE	2005_2006/meridiana/meridiana.htm			Meridiana
+2	TRUE	2004_2005/osteria/osteria.htm			Rataplam
+2	TRUE	2004_2005/straca/stracapaciunca.htm			Stracapaciunca
+2	TRUE	2004_2005/prontivia/prontivia.htm			Pronti .. Via
+2	TRUE	2004_2005/aim/aim2004.htm			Autunno in Musica
+2	TRUE	2004_2005/mostra/mostra.htm			Mostra di Pittura
+2	TRUE	2004_2005/8marzo/8m.htm			OttoMarzo 2005 - G. Verzeroli
+2	TRUE	2004_2005/provadesame/gd.htm			Prova d'esame
+2	TRUE	2004_2005/ndp/ndp.htm			Note di Primavera
+1	TRUE				Anno 2003-2004
+2	TRUE	2003_2004/osteria/osteria.htm			Osteria Colombera: Alegher de Dossena
+2	TRUE	2003_2004/osteria/osteria1.htm			3 mi(m)uti suonati
+2	TRUE	2003_2004/aim/aim2003.htm			Autunno in Musica
+2	TRUE	2003_2004/gdm/gdm.htm			Giornata della Memoria
+2	TRUE	2003_2004/quintavalle/quintavalle.htm			Luca Quintavalle
+2	TRUE	2003_2004/genitori/genitori.htm			Genitori e Scuola
+2	TRUE	2003_2004/ndp/ndp.htm			Note di Primavera
+2	TRUE	2003_2004/locatelli/locatelli.htm			Leonardo Locatelli
+1	TRUE				Anno 2002-2003
+2	TRUE	2002_2003/zani.htm			Teatro Viaggio
+2	TRUE	2002_2003/autinmus/autinmus.htm			Autunno in Musica
+2	TRUE	2002_2003/audizione.htm			Saletta audizione
+2	TRUE	2002_2003/pianoforte.htm			Pianoforte Yamaha
+2	TRUE	2002_2003/audiotecnica.htm			Corso Audiotecnica
+2	TRUE	2002_2003/notediprim/notediprim.htm			Note di Primavera
+1	TRUE				Anno 2001-2002
+2	TRUE	iniziative01-02/lucianoravasio.htm			Osteria Colombera: Luciano Ravasio
+2	TRUE	iniziative01-02/noteadaltaquota.htm			Note ad alta quota
+2	TRUE	iniziative01-02/prontivia.htm			Pronti .. Via
+2	TRUE	iniziative01-02/yoga.htm			Corso Yoga
+2	TRUE	iniziative01-02/autunnoinmusica.htm			Autunno in Musica
+2	TRUE	iniziative01-02/compagnoni.htm			C. Monzio Compagnoni
+2	TRUE	rainbow.htm			Rainbow project
+2	TRUE	iniziative01-02/computermusic.htm			Computer music
+2	TRUE	iniziative01-02/notediprimavera.htm			Note di Primavera
+2	TRUE	iniziative01-02/mercatinoarte.htm			Mercatino dell'Arte
+1	TRUE				Anno 2000-2001
+2	TRUE	iniziative00-01/canzonibergamasche.htm			Osteria Colombera: A.M. Compagnoni
+2	TRUE	iniziative00-01/maestra_minestra.htm			Maestra minestra
+2	TRUE	iniziative00-01/prontivia.htm			Pronti .. Via
+2	TRUE	iniziative00-01/noteinquota.htm			Note ad alta quota
+2	TRUE	iniziative00-01/yogaeconcentrazione.htm			Yoga e concentrazione
+2	TRUE	iniziative00-01/corsoinformatica.htm			Corso base informatica
+2	TRUE	iniziative00-01/corsoceramica.htm			Corso ceramica
+2	TRUE	iniziative00-01/sanmartino.htm			Gita San Martino
+2	TRUE	iniziative00-01/autunnoinmusica.htm			Autunno in Musica
+2	TRUE	iniziative00-01/mercatinoarte2001.htm			Mercatino dell'Arte
+2	TRUE	iniziative00-01/concertidiprimavera.htm			Concerti di Primavera
+1	TRUE				Anno 1999-2000
+2	TRUE	iniziative99-00/sagra.htm			Sagra di Ferragosto
+2	TRUE	iniziative99-00/prontivia.htm			Pronti .. Via
+2	TRUE	iniziative99-00/yoga.htm			Incontri di Yoga
+2	TRUE	iniziative99-00/autunnoinmus.htm			Autunno in Musica
+2	TRUE	iniziative99-00/concentrazione.htm			Tecniche di concentrazione
+2	TRUE	iniziative99-00/mercatino.htm			Mercatino dell'Arte
+2	TRUE	iniziative99-00/ginocol.htm			Mostra Gino Cologni
+0	TRUE				Scuola Civica\di Arte e Musica
+1	TRUE				Anno in corso
+2	TRUE	2007_2008/presentazione.htm			Presentazione
+2	TRUE	2007_2008/teatro.htm			Teatro
+2	TRUE	2007_2008/pittura.htm			Pittura
+2	TRUE				Musica
+3	TRUE	2007_2008/proped.htm			Propedeutica
+3	TRUE	2007_2008/musprof.htm			Professionale
+3	TRUE	2007_2008/musama.htm			Amatoriale
+3	TRUE	2007_2008/musins.htm			Musica insieme
+3	TRUE	2007_2008/teoriaa.htm			Teoria Professionale
+3	TRUE	2007_2008/teoriab.htm			Teoria Amatoriale 
+2	TRUE	2007_2008/attcoll.htm			Attività collaterali
+2	TRUE	2007_2008/insegnanti.htm			Insegnanti
+2	TRUE	2007_2008/iscrizioni.htm			Iscrizioni e costi
+2	TRUE	2007_2008/pagamenti.htm			Pagamenti
+1	TRUE				Documenti
+2	TRUE	statuto.htm			Statuto
+2	TRUE	convenzione.htm			Convenzione
+2	TRUE	regolamento.htm			Regolamento interno
+1	TRUE				Curricola Insegnanti
+2	TRUE	curricula/francescaarancio.htm			F. Arancio
+2	TRUE	curricula/giuliabarcella.htm			G. Barcella
+2	TRUE	curricula/giovannibertocchi.htm			G. Bertocchi
+2	TRUE	curricula/lucabertocchi.htm			L. Bertocchi
+2	TRUE	curricula/chiarabertuletti.htm			C. Bertuletti
+2	TRUE	curricula/robertobolchini.htm			R. Bolchini
+2	TRUE	curricula/manuelabonfanti.htm			M. Bonfanti
+2	TRUE	curricula/valterbrambilla.htm			V. Brambilla
+2	TRUE	curricula/daniacarissimi.htm			D. Carissimi
+2	TRUE	curricula/beppecastelli.htm			G. Castelli
+2	TRUE	curricula/alessandrocavalleri.htm			A. Cavalleri
+2	TRUE	curricula/samantacavalli.htm			S. Cavalli
+2	TRUE	curricula/francescochigioni.htm			F. Chigioni
+2	TRUE	curricula/marcochigioni.htm			M. Chigioni
+2	TRUE	curricula/raffaeledigioia.htm			R. Di Gioia
+2	TRUE	curricula/lorenzofiglioli.htm			L. Figlioli
+2	TRUE	curricula/francescafrigeni.htm			F. Frigeni
+2	TRUE	curricula/emiliogualandris.htm			E. Gualandris
+2	TRUE	curricula/filippolevati.htm			F. Levati
+2	TRUE	curricula/carmenmaccarini.htm			C. Maccarini
+2	TRUE	curricula/dianamaccarini.htm			D. Maccarini
+2	TRUE	curricula/giovannimaffeis.htm			G. Maffeis
+2	TRUE	curricula/angelomagli.htm			A. Magli
+2	TRUE	curricula/marcomariani.htm			M. Mariani
+2	TRUE	curricula/pietromodesti.htm			P. Modesti
+2	TRUE	curricula/marcellamoretti.htm			M. Moretti
+2	TRUE	curricula/cristinaosio.htm			C. Osio
+2	TRUE	curricula/danieleparolin.htm			D. Parolin
+2	TRUE	curricula/ornellapersoneni.htm			O. Personeni
+2	TRUE	curricula/clarapignatti.htm			C. Pignatti
+2	TRUE	curricula/matteopozzi.htm			M. Pozzi
+2	TRUE	curricula/esterriva.htm			E. Riva
+2	TRUE	curricula/paoloroda.htm			P. Roda
+2	TRUE	curricula/danieleroncelli.htm			D. Roncelli
+2	TRUE	curricula/domenicorossi.htm			D. Rossi
+2	TRUE	curricula/paolascotti.htm			P. Scotti
+2	TRUE	curricula/artemisiostucchi.htm			A. Stucchi
+2	TRUE	curricula/cesarezanetti.htm			C. Zanetti
+1	TRUE				Anno 2006-2007
+2	TRUE	2006_2007/01_presentazione.htm			Presentazione
+2	TRUE	2006_2007/02_pianocorsi.htm			Piano corsi
+2	TRUE	2006_2007/03_teatro.htm			Teatro
+2	TRUE	2006_2007/04_pittura.htm			Pittura
+2	TRUE				Musica
+3	TRUE	2006_2007/05_proped.htm			Propedeutica
+3	TRUE	2006_2007/06_musprof.htm			Professionale
+3	TRUE	2006_2007/07_musama.htm			Amatoriale
+3	TRUE	2006_2007/08_musins.htm			Musica insieme
+3	TRUE	2006_2007/09_musgru.htm			gruppi di genere
+3	TRUE	2006_2007/10_teoriaa.htm			Teoria Professionale
+3	TRUE	2006_2007/11_teoriab.htm			Teoria Amatoriale 
+2	TRUE	2006_2007/12_attcoll.htm			Attività collaterali
+2	TRUE	2006_2007/13_insegnanti.htm			Insegnanti
+2	TRUE	2006_2007/14_iscrizioni.htm			Iscrizioni e costi
+2	TRUE	2006_2007/15_apertura.htm			Riunione di apertura1
+2	TRUE	2006_2007/prontivia/prontivia.htm			Pronti .. Via
+2	TRUE	2006_2007/16_formazioni.htm			Formazioni
+2	TRUE	2006_2007/saggidiclasse.htm			Saggi di Classe
+2	TRUE	2006_2007/ndp/saggifinali.htm			Saggi finali
+2	TRUE				Bilanci
+3	TRUE	2006_2007/bilancio\relazione.htm			Relazione
+3	TRUE	2006_2007/bilancio\bilabbrette.htm			Abbattimento Rette
+3	TRUE	2006_2007/bilancio\bilspefis.htm			Spese fisse
+3	TRUE	2006_2007/bilancio\graficocosti.htm			grafico costi e contributi
+3	TRUE	2006_2007/bilancio\graficoutenti.htm			grafico utenti
+1	TRUE				Anno 2005-2006
+2	TRUE	2005_2006/01_presentazione.htm			Presentazione
+2	TRUE	2005_2006/02_pianocorsi.htm			Piano corsi
+2	TRUE	2005_2006/03_teatro.htm			Teatro
+2	TRUE	2005_2006/04_pittura.htm			Pittura
+2	TRUE				Musica
+3	TRUE	2005_2006/05_proped.htm			Propedeutica
+3	TRUE	2005_2006/06_musprof.htm			Professionale
+3	TRUE	2005_2006/07_musama.htm			Amatoriale
+3	TRUE	2005_2006/08_musins.htm			Musica insieme
+3	TRUE	2005_2006/09_musgru.htm			gruppi di genere
+3	TRUE	2005_2006/10_teoriaa.htm			Teoria Professionale
+3	TRUE	2005_2006/11_teoriab.htm			Teoria Amatoriale 
+2	TRUE	2005_2006/12_attcoll.htm			Attività collaterali
+2	TRUE	2005_2006/13_insegnanti.htm			Insegnanti
+2	TRUE	2005_2006/14_iscrizioni.htm			Iscrizioni e costi
+2	TRUE	2005_2006/15_apertura.htm			Riunione apertura
+2	TRUE	2005_2006/prontivia/prontivia.htm			Pronti .. Via
+2	TRUE	2005_2006/saggidiclasse.htm			Saggi di Classe
+2	TRUE	2005_2006/saggifin/saggifinali.htm			Saggi finali
+2	TRUE				Bilancio 2005-2006
+3	TRUE	2005_2006/bilancio/relazione.htm			Relazione
+3	TRUE	2005_2006/bilancio/bilancio_abbattimento_rette.htm			Abbattimento rette
+3	TRUE	2005_2006/bilancio/spese_di_gestione.htm			Spese fisse
+1	TRUE				Anno 2004-2005
+2	TRUE	2004_2005/presentazione_corsi_20042005.htm			Presentazione
+2	TRUE	2004_2005/piano_corsi_20042005.htm			Piano corsi
+2	TRUE	2004_2005/teatro_20042005.htm			Teatro
+2	TRUE	2004_2005/pittura_20042005.htm			Pittura
+2	TRUE				Musica
+3	TRUE	2004_2005/propedeutica_20042005.htm			Propedeutica
+3	TRUE	2004_2005/professionale_20042005.htm			Professionale
+3	TRUE	2004_2005/amatoriale_20042005.htm			Amatoriale
+3	TRUE	2004_2005/insieme_20042005.htm			Musica insieme
+3	TRUE	2004_2005/genere_20042005.htm			gruppi di genere
+3	TRUE	2004_2005/teoriaa_20042005.htm			Teoria Professionale
+3	TRUE	2004_2005/teoriab_20042005.htm			Teoria Amatoriale 
+3	TRUE	2004_2005/teoriabav_20042005.htm			Formazione avanzata
+2	TRUE	2004_2005/collaterali_20042005.htm			Attività collaterali
+2	TRUE	2004_2005/insegnanti_20042005.htm			Insegnanti
+2	TRUE	2004_2005/iscrizioni_20042005.htm			Iscrizioni e costi
+2	TRUE	2004_2005/prontivia/prontivia.htm			Pronti .. Via
+2	TRUE	2004_2005/mostra/mostra.htm			Mostra Pittura
+2	TRUE	2004_2005/provadesame/gd.htm			Prova d'esame
+2	TRUE	2004_2005/saggidiclasse.htm			Saggi di Classe
+2	TRUE	2004_2005/saggifin/saggifinali.htm			Saggi finali
+2	TRUE				Bilancio 2004-2005
+3	TRUE	2004_2005/bilancio/relazione.doc			Relazione
+3	TRUE	2004_2005/bilancio/bilancio_abbattimento_rette.htm			Abbattimento rette
+3	TRUE	2004_2005/bilancio/spese_fisse_di_gestione.htm			Spese fisse
+1	TRUE				Anno 2003-2004
+2	TRUE	2003_2004/presentazione.htm			Presentazione
+2	TRUE	2003_2004/pianocorsi.htm			Piano corsi
+2	TRUE	2003_2004/teatro.htm			Teatro
+2	TRUE	2003_2004/pittura.htm			Pittura
+2	TRUE				Musica
+3	TRUE	2003_2004/prop.htm			Propedeutica
+3	TRUE	2003_2004/prof.htm			Professionale
+3	TRUE	2003_2004/amat.htm			Amatoriale
+3	TRUE	2003_2004/insieme.htm			Musica insieme
+3	TRUE	2003_2004/genere.htm			gruppi di genere
+3	TRUE	2003_2004/teoriaa.htm			Teoria Professionale
+3	TRUE	2003_2004/teoriab.htm			Teoria Amatoriale 
+2	TRUE	2003_2004/coll.htm			Attività collaterali
+2	TRUE	2003_2004/chiinsegnacosa.htm			Insegnanti
+2	TRUE	2003_2004/iscrizioni.htm			Iscrizioni e costi
+2	TRUE	2003_2004/pagamenti.htm			Pagamenti
+2	TRUE	2003_2004/sconto.htm			Sconto familiare
+2	TRUE	2003_2004/apertura.htm			Riunione apertura
+2	TRUE	2003_2004/gruppi.htm			Gruppi stabili
+2	TRUE	2003_2004/prontivia.htm			Pronti .. Via
+2	TRUE	2003_2004/saggidiclasse.htm			Saggi di Classe
+2	TRUE	2003_2004/saggifin/saggifinali.htm			Saggi finali
+2	TRUE	2003_2004/bilancio2003.htm			Bilancio 2003-2004
+1	TRUE				Anno 2002-2003
+2	TRUE	2002_2003/presentazione.htm			Presentazione
+2	TRUE	2002_2003/pianocorsi.htm			Piano corsi
+2	TRUE	2002_2003/offertateatro.htm			Teatro
+2	TRUE	2002_2003/offertapittura.htm			Pittura
+2	TRUE				Musica
+3	TRUE	2002_2003/offertamusprop.htm			Propedeutica
+3	TRUE	2002_2003/offertamusprofprof.htm			Professionale
+3	TRUE	2002_2003/offertamusamat.htm			Amatoriale
+3	TRUE	2002_2003/offertamusins.htm			Musica insieme
+3	TRUE	2002_2003/offertamusgru.htm			gruppi di genere
+3	TRUE	2002_2003/offertamusteoa.htm			Teoria Professionale
+3	TRUE	2002_2003/offertamusteob.htm			Teoria Amatoriale 
+2	TRUE	2002_2003/chiinsegnacosa.htm			Insegnanti
+2	TRUE	2002_2003/iscrizioni.htm			Iscrizioni e costi
+2	TRUE	2002_2003/pagamenti.htm			Pagamenti
+2	TRUE	2002_2003/scontofam.htm			Sconto familiare
+2	TRUE	2002_2003/apertura.htm			Riunione apertura
+2	TRUE	2002_2003/prontivia.htm			Pronti .. Via
+2	TRUE				Formazioni
+3	TRUE	2002_2003/musicamoderna.htm			Musica moderna
+3	TRUE	2002_2003/gruppochitarre.htm			Chitarre
+3	TRUE	2002_2003/orchestratascabile.htm			Orchestra Tascabile
+3	TRUE	2002_2003/gruppopercussioni.htm			Percussioni
+3	TRUE	2002_2003/musicajunior.htm			Musica Junior
+2	TRUE	2002_2003/saggidiclasse.htm			Saggi di Classe
+2	TRUE	2002_2003/saggifin/saggifinali.htm			Saggi finali
+2	TRUE	2002_2003/bilancio2002.htm			Bilancio 2002-2003
+1	TRUE				Anno 2001-2002
+2	TRUE	pianocorsi2001.htm			Piano corsi
+2	TRUE	offertaformativa2001.htm			Offerta formativa
+2	TRUE	iscrizioniecosti2001.htm			Iscrizioni e costi
+2	TRUE	chiinsegna_cosa2001.htm			Insegnanti
+2	TRUE	calendario2001.htm			Calendario
+2	TRUE	formazioni2001/elenco.htm			Formazioni
+2	TRUE	rainbow.htm			Rainbow project
+2	TRUE	iniziative01-02/laboitedetango.htm			Eugenia Marini
+2	TRUE	iniziative01-02/girostrumenti2002.htm			Giro strumenti
+2	TRUE	iniziative01-02/saggi.htm			Saggi finali
+2	TRUE	iniziative01-02/saggidonizetti.htm			Saggi con Conservatorio G. Donizetti
+2	TRUE	bilancio2001.htm			Bilancio 2001-2002
+1	TRUE				Anno 2000-2001
+2	TRUE	pianocorsi.htm			Piano corsi
+2	TRUE	offertaformativa.htm			Offerta formativa
+2	TRUE	iscrizioniecosti.htm			Iscrizioni e costi
+2	TRUE	chiinsegna_cosa.htm			Insegnanti
+2	TRUE	girostrumenti.htm			Giro strumenti
+2	TRUE				Formazioni
+3	TRUE	guitarsother.htm			Guitars and others
+3	TRUE	thelittlebigband.htm			Little Big Band
+3	TRUE	gruppoance.htm			Ance
+3	TRUE	brassband.htm			Brass Band
+3	TRUE	gruppoarchi.htm			Archi
+3	TRUE	piccolaorchestra.htm			Piccola Orchestra
+3	TRUE	gruppoflauti.htm			Flauti
+3	TRUE	modernmusic.htm			Modern Music
+2	TRUE	iniziative00-01/saggidiclasse.htm			Saggi di Classe
+2	TRUE	iniziative00-01/saggiofinale.htm			Saggi finali
+2	TRUE	bilancio2000.htm			Bilancio 2000-2001
+1	TRUE				Anno 1999-2000
+2	TRUE	relazionebilancio1999.htm			Bilancio 1999-2000
+0	TRUE	progetti/filande/descr.htm			Progetto\Filande e filandere
+0	TRUE	mailecomm.htm			Mailing e\segnalazioni
+0	TRUE				Links utili
+1	TRUE	http://www.comune.osiosopra.bg.it	_blank		Comune di Osio Sopra
+1	TRUE	http://www.musicaragazzi.it	_blank		Musica Ragazzi
+1	TRUE	http://my.calendars.net/osiosopra	_blank		Calendario Osio Sopra
+1	TRUE	http://www.conservatori.com	_blank		conservatori.com

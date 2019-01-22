@@ -1,0 +1,113 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+
+
+
+
+
+
+
+
+
+  
+  <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type" />
+
+  
+  <link rel="stylesheet" type="text/css" href="style.css" />
+
+  
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"><!-- Start Fancybox --><!-- Add jQuery library -->
+
+
+
+<script type="text/javascript" src="fancybox/lib/jquery-latest.min.js">
+  </script><!-- Add mousewheel plugin (this is optional) -->
+  
+  <script type="text/javascript" src="fancybox/lib/jquery.mousewheel-3.0.6.pack.js">
+  </script><!-- Add fancyBox -->
+  
+  <link rel="stylesheet" href="fancybox/source/jquery.fancybox.css?v=2.1.4" type="text/css" media="screen" />
+
+  
+  <script type="text/javascript" src="fancybox/source/jquery.fancybox.pack.js?v=2.1.4">
+  </script><!-- Optionally add helpers - button, thumbnail and/or media -->
+  
+  <link rel="stylesheet" href="fancybox/source/helpers/jquery.fancybox-buttons.css?v=1.0.5" type="text/css" media="screen" />
+
+  
+  <script type="text/javascript" src="fancybox/source/helpers/jquery.fancybox-buttons.js?v=1.0.5">
+  </script>
+  
+  <script type="text/javascript" src="fancybox/source/helpers/jquery.fancybox-media.js?v=1.0.5">
+  </script>
+  
+  <link rel="stylesheet" href="fancybox/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7" type="text/css" media="screen" />
+
+  
+  <script type="text/javascript" src="fancybox/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7">
+  </script>
+  
+  <script type="text/javascript">
+$(document).ready(function() {
+  parent.$(".fancybox-button").fancybox({
+// Parameters
+openEffect: "elastic",
+closeEffect: "elastic",
+prevEffect : 'none',
+nextEffect : 'none',
+closeBtn : false,
+helpers : {
+  title : { type : 'inside' },
+  buttons : {}
+}
+});
+});
+  </script><!-- End Fancybox --></head><body style="color: rgb(0, 0, 0);" alink="#ee0000" link="#0000ee" vlink="#551a8b">
+<div id="map-container">
+<div id="map-content">
+<div id="map_canvas" style="width: 100%; height: 100%;"> </div>
+</div>
+</div>
+
+<div id="container"> <a href="http://www.asscolombera.it"><img style="border: 0px solid ; width: 180px; height: 56px;" alt="Ass. La Colombera" src="resources/intestata.gif" /></a> <big><big><span style="font-weight: bold;"><br />
+</span></big></big>
+<div style="text-align: right;"><big><big style="font-weight: bold;"><big>Torrenti,
+rogge e canali</big></big><br style="font-weight: bold;" />
+<big style="font-weight: bold;"><big>dal Brembo al Serio</big></big></big>
+
+<br />
+</div>
+<div id="content">
+</div>
+<div id="footer">
+<p style="text-align: center;"><a href="template.html?HydroObj=sommario"><img style="border: 0px solid ; width: 50px; height: 50px;" alt="rogge" src="resources/home.png" /></a>&nbsp; <img onmouseover="this.style.cursor='pointer'" style="border: 0px solid ; width: 50px; height: 50px;" onclick="history.back()" alt="Back" src="resources/Arrow-Back-3-icon.png" />&nbsp; <a href="mailto:gp.bacis@gmail.com" target="_blank"><img style="border: 0px solid ; width: 45px; height: 45px;" alt="mail" src="resources/at.png" /></a><br />
+</p>
+</div>
+</div>
+
+<script type="text/javascript">
+function getQueryVariable(variable)
+{
+ var query = window.location.search.substring(1);
+ var vars = query.split("&");
+ for (var i=0;i<vars.length;i++) {
+   var pair = vars[i].split("=");
+   if(pair[0] == variable){return pair[1];}
+ }
+ return(false);
+}
+</script>
+<script type="text/javascript">
+var HydroObj = getQueryVariable("HydroObj");
+$.ajax({
+  url: HydroObj + '.js',
+  dataType: 'json',
+  success: function (data) {
+    document.title = data["titolo"];
+    $("#content").html('<iframe marginheight="0" marginwidth="5" src="' + HydroObj + '.html" frameborder="0" height="100%" width="100%"> </iframe>');
+    $("#map_canvas").html('<iframe marginheight="0" marginwidth="0" src="' + data["mappa"] + '" frameborder="1" height="100%" scrolling="no" width="100%"> </iframe>')
+  }
+});
+</script>
+</body></html>

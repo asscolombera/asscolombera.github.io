@@ -1,0 +1,8 @@
+<html>
+	<head>
+	</head>
+	<frameset cols="150,*" framespacing="0" frameborder="0" border="0">
+		<frame frameborder="0" framespacing="0" src="$$$$.$$$" noresize scrolling="no" name="MenuFrame"></frame>
+		<frame frameborder="0" framespacing="0" src="$$$$$.$$$" noresize scrolling="no" name="SubFrame"></frame>
+		</frameset>
+</html>

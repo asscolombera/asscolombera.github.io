@@ -1,0 +1,23 @@
+posizionarsi sulla directory C:\bacis\personale\colombera\sito
+dit /b /s *.htm >elenco.txt
+Cancellare: google5838785ef691e270.html
+
+Inserire in testa:	<p>
+e alla fine:		</p>
+
+rimpiazzare:
+
+		C:\bacis\Personale\Colombera\SITO\
+		<a href="
+
+rimpiazzare:
+		.htm
+		.htm"Link for Sitemap</a><br>
+
+Copiare il tutto e inserire in lacolombera.htm
+alla fine, fra le righe </center> e </body>
+uscire subito salvando
+
+Connettersi al sito aruba.it e chiedere la generazione della sitemap
+scaricarla nella directory e caricarla sul sito
+chieder a GOOGLE di aggiornare 

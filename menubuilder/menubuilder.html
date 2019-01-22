@@ -1,0 +1,151 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta name="Author" content="Ger Versluis">
+		<title>MenuBuilder help file</title>
+		<style type='text/css'>
+			a{color:black}
+			a:hover{color:#aaaaaa}
+			.redtxt{color:red}
+			.bluetxt{color:blue}
+		</style>
+	</head>
+<body>
+	<a name=#TopOfPage></a>
+	<h2>Using MenuBuilder</h2>
+	<ul>
+		<li><h3><a href="#General">General</a></h3>
+		<li><h3><a href="#ColorTyping">Typing conventions</a></h3>
+		<ul>	
+			<li><b><a href="#ColorTyping">Colors</a></b>
+			<li><b><a href="#Fonts">Fonts</a></b>
+			<li><b><a href="#ExlamationFields">Exlamation fields</a></b>
+			<li><b><a href="#NumberInput">Number Input</a></b><br>&nbsp;
+		</ul>
+		<li><h3><a href="#CreateTemplate">Getting Started</a></h3>
+		<ul>	
+			<li><b><a href="#CreateTemplate">Create a template/ project</a></b>
+			<li><b><a href="#OpenProject">Open an existing template/ project</a></b>
+			<li><b><a href="#MaintainProject">Maintain an existing template/ project</a></b><br>&nbsp;
+		</ul>
+		<li><h3><a href="#FileMenu">MenuBuilder's menu options</a></h3>
+		<ul>	
+			<li><b><a href="#FileMenu">File menu</a></b>
+			<li><b><a href="#ToolsMenu">Tools menu</a></b>
+			<li><b><a href="#ViewMenu">View menu</a></b>
+			<li><b><a href="#HelpMenu">Help menu</a></b><br>&nbsp;
+		</ul>
+	</ul>
+
+	<h3><a name="General">General</a></h3>
+	<dl><dt><dd>
+		MenuBuilder is a windows32 application to help creating and maintaining javascript variable files belonging to Menu version 9.10 (+)<br>
+		No extensive knowledge of javascript is needed to build and maintain a menu.<br>
+		The used label names in front of the input fields and checkboxes correspondent as much as possible with the actual javascript variable names. 
+		For detailed explanation of the variables see: <a href="installmenus.html">installmenus.html</a><br>
+	</dl>
+	<center><a href="#TopOfPage">top of page</a></center>
+
+	<h3><a name="ColorTyping">Typing conventions</a></h3>
+	<dl><dt><dd>
+		<b><a name="ColorTyping">Colors</a></b>
+		<dl><dt><dd>
+			You can pick a color from the dropdown list, choose one with the color dialog window or enter one manually.<br>
+			Colors can be any valid color name or a rgb representation in the format #RRGGBB, where R G and B are hexadecimal values between 0 and F.
+		</dl>
+		<b><a name="Fonts">Fonts</a></b>
+		<dl><dt><dd>
+			You can choose a font with the font dialog window or enter one manually.<br>
+			You can specify more fonts seperated with a comma: arial, system, technical. The system will use the first font found on the users system.
+		</dl>
+		<b><a name="ExlamationFields">Exlamation fields</a></b>
+		<dl><dt><dd>
+			Some fields, marked by (!) in front of the label accept a ! as first character in the field. When MenuBuilder finds a ! at the beginning in those fields no error checking is done and the input is not surrounded with qutations.<br>
+			This is usefull for users that have good knowledge of javascript to use javascript statements in those fields instead of text.<br>
+			An example is the default value of BaseHref. It uses:<br>!document.location.href.substring(0,document.location.href.lastIndexOf("/") +1) as default input value.<br>
+			The statement calculates the root of the site from the location of the document that loads the script.
+		</dl>
+		<b><a name="NumberInput">Number Input</a></b>
+		<dl><dt><dd>
+			Valid characters are: 0-9, . and -. Values between 0 and 1 can be entered as .4 or 0.4
+		</dl>
+	</dl>
+	<center><a href="#TopOfPage">top of page</a></center>
+
+	<h3><a name="CreateTemplate">Getting Started</a></h3>
+	<dl><dt><dd>
+		<b><a name="CreateTemplate">Create a template/ project</a></b>
+		<dl><dt><dd>
+			When you start from scratch you might consider to create a template. MenuBuilder creates all necassay HTML and Javascript files. It looks for menu9_com.js in the specified create folder and when it does not find one it copies the one from the MenuBuilder folder.<br>
+			You can create a template for a single page, vertical frames, horizontal frames or hiddenframes setup. Finally you can use the current settings of the variables to let MenuBuilder create a template based on the current variables. All other templates reset the variables.
+			When you use menu_compat.js you need to rename it to menu9_com.js and keep a copy in the MenuBuilder folder.
+		</dl>
+		<b><a name="OpenProject">Open an existing template/ project</a></b>
+		<dl><dt><dd>
+			Once you created a template you can reopen the template as project. Menubuilder asks for the main HTML file, which is either a single HTML document or a frameset document when you use frames, and the relevant javascript variable file.<br>
+			MenuBuilder opens the variable file for editing and uses the HTML file for preview.
+			Of course you can open an existing project, not created with MenuBuilder, in the same manner.
+		</dl>
+		<b><a name="MaintainProject">Maintain an existing template/ project</a></b>
+		<dl><dt><dd>
+			To maintain an existing variable file you can open it independently or open the project that holds the variable file.
+		</dl>
+	</dl>
+	<center><a href="#TopOfPage">top of page</a></center>
+
+	<h3><a name="FileMenu">MenuBuilder's menu options</a></h3>
+	<dl><dt><dd>
+		<b><a name="FileMenu">File menu</a></b>
+		<dl><dt><dd>
+			<ul>
+				<li><b>Reset variable file</b>
+					<br>Asks if you want to save the current file, closes an open project and resets all the variables to their default inititial values.
+				<li><b>Open variable file</b>
+					<br>Opens an existing variable file.
+				<li><b>Save variable file</b>
+					<br>Saves an opened variable file.
+				<li><b>Save variable file as</b>
+					<br>Saves an opened variable file under another name.
+				<li><b>Create HTML template</b>
+					<br>Lets you create an template. See <a href="#CreateTemplate">Create a template</a>
+				<li><b>Open HTML project</b>
+					<br>Opens a project. See <a href="#OpenProject">Opening an existing template</a>
+			</ul>
+		</dl>
+		<b><a name="ToolsMenu">Tools menu</a></b>
+		<dl><dt><dd>
+			<ul>
+				<li><b>Insert preload of menu images</b>
+					<br>Recommended. MenuBuilder searches your variable file for images and inserts the necassary code in the function AfterBuild to preload them.
+				<li><b>Insert hide/show code</b>
+					<br>MenuBuilder inserts the necassary code in the functions BeforeFirstOpen and AfterCloseAll to hide /show embedded objects in your HTML that are outside the documents z-order.
+					<br>See:<a href="http://www.burmees.nl/menu/faqs.htm#q8"> Hide form elements and objects</a>
+				<li><b>Insert current variable file in existing HTML</b>
+					<br>MenuBuilder asks for the name of the HTML file and inserts the script loader based on the current variable file. It saves the current variable file to the same directory as the main HTML file.
+			</ul>
+		</dl>
+		<b><a name="ViewMenu">View menu</a></b>
+		<dl><dt><dd>
+			<ul>
+				<li><b>Preview in browser</b>
+					<br>MS IE 4+ has to be installed on your system to use this function.
+				<li><b>Javascript code</b>
+					<br>Shows the javascript code as it will be saved to a variable file.
+			</ul>
+		</dl>
+		<b><a name="HelpMenu">Help menu</a></b><br>&nbsp;
+		<dl><dt><dd>
+			<ul>
+				<li><b>Using MenuBuilder</b>
+					<br>Opens this file.
+				<li><b>Menu Javascript</b>
+					<br>Opens installmenus.html which descibes the variables and other menu issues.
+				<li><b>About MenuBuilder</b>
+					<br>Displays the version and copyright.
+			</ul>
+		</dl>
+	</dl>
+
+</body>
+</html>
