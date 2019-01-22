@@ -5,7 +5,7 @@
 
 <head>
 <meta http-equiv="Content-Language" content="it">
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title><%= Request.ServerVariables("HTTP_HOST") %></title>
 </head>
 
