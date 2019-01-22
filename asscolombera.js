@@ -94,7 +94,7 @@ Menu1=new Array("Associazione Culturale La Colombera","","",18,60,140,"","","","
 			Menu1_2_6_1=new Array("Locandina","pdfjs/web/simpleviewer.html?file=/2014/bicisud/A3.pdf","",0,20,120,"","","","","","",-1,-1,-1,"","");
 			Menu1_2_6_2=new Array("Piegheviole Tappe","pdfjs/web/simpleviewer.html?file=/2014/bicisud/pieghevole.pdf","",0,20,120,"","","","","","",-1,-1,-1,"","");
 			Menu1_2_6_3=new Array("Foto","2014/bicisud/foto/index.html","",0,20,120,"","","","","","",-1,-1,-1,"","");
-			Menu1_2_6_4=new Array("Tutte le mappe","javascript:{window.open(\"http://www.asscolombera.it/progetti/hydrobg\",\"_blank\")}","",0,20,120,"","","","","","",-1,-1,-1,"","");
+			Menu1_2_6_4=new Array("Tutte le mappe","javascript:{window.open(\"/progetti/hydrobg\",\"_blank\")}","",0,20,120,"","","","","","",-1,-1,-1,"","");
 		Menu1_2_7=new Array("Il baco da seta","","",4,20,120,"","","","","","",-1,-1,-1,"","");
 			Menu1_2_7_1=new Array("L\"iniziativa","pdfjs/web/simpleviewer.html?file=/progetti/bombix/volantino.pdf","",0,20,200,"","","","","","",-1,-1,-1,"","");
 			Menu1_2_7_2=new Array("Cartelli Didattici","","",16,20,120,"","","","","","",-1,-1,-1,"","");
@@ -147,7 +147,7 @@ Menu1=new Array("Associazione Culturale La Colombera","","",18,60,140,"","","","
 			Menu1_3_3_1=new Array("Locandina","pdfjs/web/simpleviewer.html?file=/2013/bicinord/A3.pdf","",0,20,200,"","","","","","",-1,-1,-1,"","");
 			Menu1_3_3_2=new Array("Pieghevole Tappe","pdfjs/web/simpleviewer.html?file=/2013/bicinord/pieghevole.pdf","",0,20,120,"","","","","","",-1,-1,-1,"","");
 			Menu1_3_3_3=new Array("Album fotografico","2013/bicinord/foto/index.html","",0,20,120,"","","","","","",-1,-1,-1,"","");
-			Menu1_3_3_4=new Array("Tutte le mappe","javascript:{window.open(\"http://www.asscolombera.it/progetti/hydrobg\",\"_blank\")}","",0,20,120,"","","","","","",-1,-1,-1,"","");
+			Menu1_3_3_4=new Array("Tutte le mappe","javascript:{window.open(\"/progetti/hydrobg\",\"_blank\")}","",0,20,120,"","","","","","",-1,-1,-1,"","");
 		Menu1_3_4=new Array("Album Fotografico","","",1,20,120,"","","","","","",-1,-1,-1,"","");
 			Menu1_3_4_1=new Array("Chiesa Parrocchiale - Facciata","osiosopra/album/chiesafacciata/album.html","",0,20,120,"","","","","","",-1,-1,-1,"","");
 		Menu1_3_5=new Array("Sotto il gelso","","",4,20,120,"","","","","","",-1,-1,-1,"","");
@@ -292,7 +292,7 @@ Menu2=new Array("Progetti","","",6,20,120,"","","","","","",11,1,-1,"center","")
 		Menu2_4_2=new Array("Moretti, maritate e carrettieri","/progetti/canzonidamore/descr.htm","",0,20,300,"","","","","","",-1,-1,-1,"","");
 		Menu2_4_3=new Array("Resteline, monichelle e solda-i d\"armada","progetti/narrativo/descr.htm","",0,20,120,"","","","","","",-1,-1,-1,"","");
 	Menu2_5=new Array("Torrenti rogge e canali dal Brembo al Serio","","",4,20,300,"","","","","","",-1,-1,-1,"","");
-		Menu2_5_1=new Array("Tutte le mappe","javascript:{window.open(\"http://www.asscolombera.it/progetti/hydrobg\",\"_blank\")}","",0,20,280,"","","","","","",-1,-1,-1,"","");
+		Menu2_5_1=new Array("Tutte le mappe","javascript:{window.open(\"/progetti/hydrobg\",\"_blank\")}","",0,20,280,"","","","","","",-1,-1,-1,"","");
 		Menu2_5_2=new Array("Biciclettata Percorso Nord (2013)","","",3,20,120,"","","","","","",-1,-1,-1,"","");
 			Menu2_5_2_1=new Array("Locandina","pdfjs/web/simpleviewer.html?file=/2013/bicinord/A3.pdf","",0,20,260,"","","","","","",-1,-1,-1,"","");
 			Menu2_5_2_2=new Array("Pieghevole Tappe","pdfjs/web/simpleviewer.html?file=/2013/bicinord/pieghevole.pdf","",0,20,120,"","","","","","",-1,-1,-1,"","");
