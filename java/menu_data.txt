@@ -94,7 +94,7 @@
 3	TRUE	2007_2008/musins.htm			Musica insieme
 3	TRUE	2007_2008/teoriaa.htm			Teoria Professionale
 3	TRUE	2007_2008/teoriab.htm			Teoria Amatoriale 
-2	TRUE	2007_2008/attcoll.htm			Attivit‡ collaterali
+2	TRUE	2007_2008/attcoll.htm			Attivit√† collaterali
 2	TRUE	2007_2008/insegnanti.htm			Insegnanti
 2	TRUE	2007_2008/iscrizioni.htm			Iscrizioni e costi
 2	TRUE	2007_2008/pagamenti.htm			Pagamenti
@@ -154,7 +154,7 @@
 3	TRUE	2006_2007/09_musgru.htm			gruppi di genere
 3	TRUE	2006_2007/10_teoriaa.htm			Teoria Professionale
 3	TRUE	2006_2007/11_teoriab.htm			Teoria Amatoriale 
-2	TRUE	2006_2007/12_attcoll.htm			Attivit‡ collaterali
+2	TRUE	2006_2007/12_attcoll.htm			Attivit√† collaterali
 2	TRUE	2006_2007/13_insegnanti.htm			Insegnanti
 2	TRUE	2006_2007/14_iscrizioni.htm			Iscrizioni e costi
 2	TRUE	2006_2007/15_apertura.htm			Riunione di apertura1
@@ -181,7 +181,7 @@
 3	TRUE	2005_2006/09_musgru.htm			gruppi di genere
 3	TRUE	2005_2006/10_teoriaa.htm			Teoria Professionale
 3	TRUE	2005_2006/11_teoriab.htm			Teoria Amatoriale 
-2	TRUE	2005_2006/12_attcoll.htm			Attivit‡ collaterali
+2	TRUE	2005_2006/12_attcoll.htm			Attivit√† collaterali
 2	TRUE	2005_2006/13_insegnanti.htm			Insegnanti
 2	TRUE	2005_2006/14_iscrizioni.htm			Iscrizioni e costi
 2	TRUE	2005_2006/15_apertura.htm			Riunione apertura
@@ -206,7 +206,7 @@
 3	TRUE	2004_2005/teoriaa_20042005.htm			Teoria Professionale
 3	TRUE	2004_2005/teoriab_20042005.htm			Teoria Amatoriale 
 3	TRUE	2004_2005/teoriabav_20042005.htm			Formazione avanzata
-2	TRUE	2004_2005/collaterali_20042005.htm			Attivit‡ collaterali
+2	TRUE	2004_2005/collaterali_20042005.htm			Attivit√† collaterali
 2	TRUE	2004_2005/insegnanti_20042005.htm			Insegnanti
 2	TRUE	2004_2005/iscrizioni_20042005.htm			Iscrizioni e costi
 2	TRUE	2004_2005/prontivia/prontivia.htm			Pronti .. Via
@@ -231,7 +231,7 @@
 3	TRUE	2003_2004/genere.htm			gruppi di genere
 3	TRUE	2003_2004/teoriaa.htm			Teoria Professionale
 3	TRUE	2003_2004/teoriab.htm			Teoria Amatoriale 
-2	TRUE	2003_2004/coll.htm			Attivit‡ collaterali
+2	TRUE	2003_2004/coll.htm			Attivit√† collaterali
 2	TRUE	2003_2004/chiinsegnacosa.htm			Insegnanti
 2	TRUE	2003_2004/iscrizioni.htm			Iscrizioni e costi
 2	TRUE	2003_2004/pagamenti.htm			Pagamenti
